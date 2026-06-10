@@ -1,0 +1,6 @@
+{
+  "name": "Todd Weight Selector",
+  "description": "An interactive, highly polished weight selection UI featuring Todd the Dachshund with realistic bouncy recoils, responsive physical movement, and an Apple-style 3D carousel digit roller.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
